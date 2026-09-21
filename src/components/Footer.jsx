@@ -81,7 +81,7 @@ function Footer() {
                                 </div>
 
                                 <a
-                                    href="tel:+2340000000000"
+                                    href="tel:+2349157999889"
                                     className="flex items-center gap-3 text-sm text-slate-600 transition hover:text-emerald-700 dark:text-slate-400 dark:hover:text-emerald-400"
                                 >
                                     <Phone size={18} />
@@ -89,11 +89,11 @@ function Footer() {
                                 </a>
 
                                 <a
-                                    href="mailto:info@lancityacademy.com"
+                                    href="mailto:josasofure@gmail.com"
                                     className="flex items-center gap-3 text-sm text-slate-600 transition hover:text-emerald-700 dark:text-slate-400 dark:hover:text-emerald-400"
                                 >
                                     <Mail size={18} />
-                                    info@lancityacademy.com
+                                    josasofure@gmail.com
                                 </a>
                             </div>
                         </div>

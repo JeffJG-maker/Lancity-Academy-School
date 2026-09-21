@@ -11,7 +11,7 @@ function Header() {
     };
 
     return (
-        <header className="absolute left-0 top-0 z-50 w-full border-b border-slate-200/70 bg-white/90 backdrop-blur-md dark:border-slate-800/70 dark:bg-slate-950/90">
+        <header className="fixed left-0 top-0 z-50 w-full border-b border-slate-200/70 bg-white/90 backdrop-blur-md dark:border-slate-800/70 dark:bg-slate-950/90">
             <div className="mx-auto flex h-20 max-w-7xl items-center justify-between px-6 lg:px-8">
 
                 {/* Logo */}
