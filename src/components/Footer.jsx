@@ -85,7 +85,7 @@ function Footer() {
                                     className="flex items-center gap-3 text-sm text-slate-600 transition hover:text-emerald-700 dark:text-slate-400 dark:hover:text-emerald-400"
                                 >
                                     <Phone size={18} />
-                                    +234 000 000 0000
+                                    +234 915 7999 889
                                 </a>
 
                                 <a
